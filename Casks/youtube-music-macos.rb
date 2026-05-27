@@ -1,6 +1,6 @@
 cask "youtube-music-macos" do
-  version "1.0.0"
-  sha256 "4ffa8d8f668d4e2bf683abf83b9483b722de6157e430b2fb6d090d01936876c2"
+  version "1.1.0"
+  sha256 "c5ad68703d8371953a2750a64754b987b5ecec57a079c73c4e84cfe8973cda23"
 
   url "https://github.com/0xjemm/youtube-music-macos/releases/download/v#{version}/YouTubeMusic.zip"
   name "YouTube Music"
